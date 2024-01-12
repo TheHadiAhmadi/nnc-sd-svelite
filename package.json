@@ -9,7 +9,7 @@
         "svelitecms": "^0.0.2-next.40"
     },
     "svelite": {
-        "adapter": "node"
+        "adapter": "auto"
     },
     "devDependencies": {
         "svelte": "^5.0.0-next.34"
