@@ -249,7 +249,7 @@ export default {
             ]
         }
     ],
-    api: 'http://localhost:3010/api'
+    api: 'https://svelite-api.hadiahmadi.dev/api'
 }
 
 export const config = {
