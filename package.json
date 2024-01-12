@@ -1,0 +1,17 @@
+{
+    "type": "module",
+    "scripts": {
+        "dev": "svelite",
+        "build": "svelite build"
+    },
+    "dependencies": {
+        "svelite-admin": "^0.0.2-next.8",
+        "svelitecms": "^0.0.2-next.40"
+    },
+    "svelite": {
+        "adapter": "node"
+    },
+    "devDependencies": {
+        "svelte": "^5.0.0-next.34"
+    }
+}
