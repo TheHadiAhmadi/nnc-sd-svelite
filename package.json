@@ -5,7 +5,7 @@
         "build": "svelite build"
     },
     "dependencies": {
-        "svelite-admin": "^0.0.2-next.8",
+        "svelite-admin": "^0.0.2-next.9",
         "svelitecms": "^0.0.2-next.40"
     },
     "svelite": {
