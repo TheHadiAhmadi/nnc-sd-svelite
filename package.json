@@ -12,6 +12,7 @@
         "adapter": "auto"
     },
     "devDependencies": {
+        "@sveltejs/adapter-vercel": "^4.0.4",
         "svelte": "^5.0.0-next.34"
     }
 }
